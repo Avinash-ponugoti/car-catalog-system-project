@@ -1,2 +1,4 @@
 # car-catalog-system-project
-servicenow project for showroom car catalog with approval workflow
+The Car Catalog System is a service-based application designed to manage and display a catalog of cars, including their specifications, availability, and services offered. It serves as a platform for users to explore car details and for admins to manage inventory and services efficiently.
+
+
